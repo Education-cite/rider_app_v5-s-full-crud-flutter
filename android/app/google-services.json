@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106540408188",
+    "project_id": "flutter-rider-app-33e3e",
+    "storage_bucket": "flutter-rider-app-33e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106540408188:android:50152fe2c4bf9e631ed8f9",
+        "android_client_info": {
+          "package_name": "com.example.rider_app_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106540408188-b2nkd6vb4ekd7o4d0l6k0nemsm6jo729.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU80c9aWyl3sm9HuHyjs16CoN995B8GkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106540408188-b2nkd6vb4ekd7o4d0l6k0nemsm6jo729.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
